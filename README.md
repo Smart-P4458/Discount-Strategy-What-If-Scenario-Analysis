@@ -33,7 +33,7 @@ This project uses Python to automate database operations and execute SQL queries
 
 **Validated data before loading into Power BI**
 ---
-![Screenshot](image URL)
+![Screenshot](https://github.com/Smart-P4458/Discount-Strategy-What-If-Scenario-Analysis/blob/main/Images/SQL%20query%20for%20scenario_table.jpg?raw=true)
 
 
 ### I executed SQL pipelines programmatically using Python for database automation.
