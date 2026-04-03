@@ -25,7 +25,7 @@ This project uses Python to automate database operations and execute SQL queries
 
 **Programmatically created database table**
 ---
-![Screenshot]()
+![Screenshot](https://github.com/Smart-P4458/Discount-Strategy-What-If-Scenario-Analysis/blob/main/Images/Creating%20the%20Postgresql%20Database%20in%20Python.jpg?raw=true)
 
 **Execute SQL queries for data insertion and transformation**
 ---
