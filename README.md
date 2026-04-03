@@ -29,7 +29,7 @@ This project uses Python to automate database operations and execute SQL queries
 
 **Execute SQL queries for data insertion and transformation**
 ---
-![Screenshot](image URL)
+![Screenshot](https://github.com/Smart-P4458/Discount-Strategy-What-If-Scenario-Analysis/blob/main/Images/Uploading%20table%20into%20PostgreSQL%20DB.jpg?raw=true)
 
 **Validated data before loading into Power BI**
 ---
