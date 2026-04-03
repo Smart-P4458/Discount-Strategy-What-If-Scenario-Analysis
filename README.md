@@ -1,6 +1,7 @@
-#Discount Strategy What-If Scenario Analysis Dashboard
+# Discount Strategy What-If Scenario Analysis Dashboard
+
 This project showcases a complete end-to-end data analytics solution built using Python, PostgreSQL, SQL, and Power BI.
-The workflow begins with raw dataset processing in Python, where the data is cleaned, structured, and prepared for analysis. The cleaned dataset is then stored in a queried using SQL before being connected to Power Bi for visualization.
+The workflow begins with raw dataset processing in Python, where the data is cleaned, structured, and prepared for analysis. The cleaned dataset is then stored in a query using SQL before being connected to Power BI for visualization.
 The Power BI dashboard includes a dynamic what-if scenario analysis that allows users to simulate discount strategies and instantly evaluate their impact on revenue and profitability.
 Key Features:
 -	Python-based data cleaning and transformation
@@ -14,10 +15,9 @@ This project demonstrates a full data pipeline from raw data to actionable busin
 ---
 ![Screenshot](image URL)
 
-
-##Python + SQL Automation Pipeline 
+## Python + SQL Automation Pipeline 
 This project uses Python to automate database operations and execute SQL queries directly in PostgreSQL.
-###Key Steps:
+### Key Steps:
 
 **Established connection to PostgreSQL using Python**
 ---
@@ -36,5 +36,5 @@ This project uses Python to automate database operations and execute SQL queries
 ![Screenshot](image URL)
 
 
-###I executed SQL pipelines programmatically using Python for database automation.
+### I executed SQL pipelines programmatically using Python for database automation.
 
