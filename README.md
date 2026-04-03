@@ -21,7 +21,7 @@ This project uses Python to automate database operations and execute SQL queries
 
 **Established connection to PostgreSQL using Python**
 ---
-![Screenshot](image URL)
+![Screenshot](https://github.com/Smart-P4458/Discount-Strategy-What-If-Scenario-Analysis/blob/main/Images/Connecting%20Python%20to%20PostgreSQL.jpg?raw=true)
 
 **Programmatically created database table**
 ---
