@@ -13,7 +13,7 @@ Key Features:
 -	Executive-level reporting and storytelling
 This project demonstrates a full data pipeline from raw data to actionable business insights, making it highly valuable for organizations looking to implement data-driven decision-making.
 ---
-![Screenshot](image URL)
+![Screenshot](https://github.com/Smart-P4458/Discount-Strategy-What-If-Scenario-Analysis/blob/main/Images/Power%20BI%20dashboard%20at%208%25%20discount.jpg?raw=true)
 
 ## Python + SQL Automation Pipeline 
 This project uses Python to automate database operations and execute SQL queries directly in PostgreSQL.
@@ -25,7 +25,7 @@ This project uses Python to automate database operations and execute SQL queries
 
 **Programmatically created database table**
 ---
-![Screenshot](image URL)
+![Screenshot]()
 
 **Execute SQL queries for data insertion and transformation**
 ---
