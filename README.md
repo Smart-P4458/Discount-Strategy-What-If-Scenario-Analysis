@@ -38,3 +38,12 @@ This project uses Python to automate database operations and execute SQL queries
 
 ### I executed SQL pipelines programmatically using Python for database automation.
 
+## Author
+
+Pam Sani George
+
+Data Analyst | Business Intelligence Developer
+
+LinkedIn:
+https://www.linkedin.com/in/pamsani/
+
